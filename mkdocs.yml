@@ -1,0 +1,18 @@
+site_name: LoopLink RLC Help
+
+pages:
+- Basic Navigation : 'index.md'
+- Project Details : 'project.md'
+- Client Information : 'client_information.md'
+- Prices & Inflation : 'prices_and_inflation.md'
+- 'zone.md'
+- Zone - Load Estimator : 'load_estimator.md'
+- Hot Water Generation : 'hwg.md'
+- GHEX - Vertical Bore : 'vertical_bore.md'
+- GHEX - Horizontal Bore : 'horizontal_bore.md'
+- GHEX - Horizontal Trench : 'horizontal_trench.md'
+- Operating Cost : 'operating_cost.md'
+- Cost of Ownership : 'cost_of_ownership.md'
+- Project Summary : 'project_summary.md'
+
+theme: readthedocs
