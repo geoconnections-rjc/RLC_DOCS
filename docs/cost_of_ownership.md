@@ -98,7 +98,7 @@ For the GSHP system, the replacement cost will typically be 40-60% of the origin
 
 ##N Year Savings
 
-**Total Savings (After N Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over a 30-year time period.
+**Total Savings (After N Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over the time period specified in year n.
 
 The total savings after N years includes the original cost of the equipment (as part of the original home mortgage payment), estimated inflation rates for the cost of energy (specified on the **FUEL INFLATION and INSTALLATION COSTS** section of this page), and the life cycle cost for both types of equipment (specified on the **EQUIPMENT REPLACEMENT DETAILS** section of this page). Life cycle costs are only considered when the **Account for System Life Cycle** box is checked and appropriate data is supplied.
 
