@@ -6,7 +6,9 @@
 
 **Retrofit:** Leave this box unchecked if the analysis being performed is for a project where the cost of the GSHP system will be included in the mortgage. Check this box if the cost of the new system will be separately paid for or financed. 
 
-**Compare GSHP to:** Select the conventional heating and cooling system for direct comparison against the financing cost and cost of ownership with a GSHP system. 
+**Conventional Heating & Cooling System:** Select the conventional heating and cooling system for direct comparison against the financing cost and cost of ownership with a GSHP system.
+
+**Year N:** Define the number of years from 5 to 30 for which you would like to analyze the system's Cost of Ownership.
 
 **Account for System Life Cycle:** Leave this box unchecked if life cycle cost is to be ignored in this analysis. Check this box by clicking on it to account for the life cycle cost for each system. By including life cycle cost in the calculations, the life expectancy and associated future equipment replacement costs will be accounted for. When life cycle costs are included, the cost of ownership calculated for each system will more closely resemble the actual cost of ownership given that reasonable assumptions are used for the analysis.
 
@@ -94,11 +96,11 @@ For the GSHP system, the replacement cost will typically be 40-60% of the origin
 
 **Down Payment:** Specify the down payment amount on the replacement loan for each system.
 
-##30 Year Savings
+##N Year Savings
 
-**Total Savings (After 30 Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over a 30-year time period.
+**Total Savings (After N Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over a 30-year time period.
 
-The total savings after 30 years includes the original cost of the equipment (as part of the original home mortgage payment), estimated inflation rates for the cost of energy (specified on the **FUEL INFLATION and INSTALLATION COSTS** section of this page), and the life cycle cost for both types of equipment (specified on the **EQUIPMENT REPLACEMENT DETAILS** section of this page). Life cycle costs are only considered when the **Account for System Life Cycle** box is checked and appropriate data is supplied.
+The total savings after N years includes the original cost of the equipment (as part of the original home mortgage payment), estimated inflation rates for the cost of energy (specified on the **FUEL INFLATION and INSTALLATION COSTS** section of this page), and the life cycle cost for both types of equipment (specified on the **EQUIPMENT REPLACEMENT DETAILS** section of this page). Life cycle costs are only considered when the **Account for System Life Cycle** box is checked and appropriate data is supplied.
 
 ##Cost of Ownership Analysis
 
