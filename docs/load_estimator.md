@@ -1,7 +1,7 @@
 #Load Estimator
-**Use the Load Estimator to generate peak heating and cooling load approximations for budgetary use.**
+** Use the Load Estimator to generate peak heating and cooling load approximations for budgetary use. **
 
-###The Load Estimator is only available for single-zone projects. If the Load Estimator is activated, the ADD NEW ZONE feature will be locked.If the project already has more than one zone you will not be able to access the load estimator.
+The Load Estimator is only available for single-zone projects. If the Load Estimator is activated, the ADD NEW ZONE feature will be locked. If the project already has more than one zone you will not be able to access the load estimator.
 
 ##Construction Details
 Specify whether the home is constructed with 4" Exterior Walls, 6" Exterior Walls, or SIP (structurally insulated panels). 
@@ -34,4 +34,4 @@ Specify whether the ductwork is located in conditioned space, in an unconditione
 ##Deactivate Load Estimator
 To deactivate the **Load Estimator** go to the **ZONE** page and click on the Delete Load Estimate button. 
 
-###Estimated Loads are for BUDGETARY USE ONLY and are approximations not to be used for the design of a project.
+** Estimated Loads are for BUDGETARY USE ONLY and are approximations not to be used for the design of a project. **
