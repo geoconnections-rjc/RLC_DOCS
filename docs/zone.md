@@ -170,7 +170,7 @@ The Zone Load and Operating Profile Graph can be displayed or hidden by clicking
 
 For a full overview of the graph please see [GeoConnected: Warning Graphic Geothermal Content](http://blog.geoconnectionsinc.com/2012/06/warning-graphic-geothermal-content.html)
 
-##GSHP Operating Cost Breakdown for Zone
+##GSHP Operating Cost Breakdown
 View the calculated costs to operate the GSHP equipment for the zone for one year.
 ###Heating Mode
 **HP Operating Cost:** The cost to operate the GSHP unit selected for the zone in the heating mode for one year. This calculation is based on the zone loads, capacity and efficiency of the selected equipment, the cost of electricity and the climate for the geographical location. 
