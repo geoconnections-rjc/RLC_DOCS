@@ -12,9 +12,7 @@
 
 **Soil Diffusivity:** The thermal diffusivity (ft2/day) of the soil. Soil diffusivity is dependent on soil type, moisture content, and density. Thermal diffusivity is a measure of how fast heat moves relative to the heat storage capacity of the material. 
 
-**Calculate Estimate:** Click this button to open an interactive calculator that will enable you to estimate your formation thermal properties based on a weighted average of soil properites from a drill log.
-
-**View Reference Table:** Click this button to open a reference table of thermal properties for a various soils.
+**Soil Calculator:** Click this button to open an interactive calculator that will enable you to estimate your formation thermal properties based on a weighted average of soil properites from a drill log.
 
 For more information on soil properties, refer to Section 5.3.2.2 and Table 5.15 (Chapter 5, pages 59-62) in IGSHPA's *Ground Source Heat Pump Residential and Light Commercial Design and Installation Guide.* 
 
@@ -33,9 +31,9 @@ Users in the U.S.A. may reference the [USDA Printed Surveys](http://soils.usda.g
 
 **Pipe Diameter:** The pipe diameter to be used in the active section of the horizontally-trenched GHEX. Choose between 3/4", 1", and 1-1/4" horizontal loop pipe diameters. 
 
-**Flow Paths per Trench:** The number of parallel flow paths per trench. When multiple values are possible, a dropdown will appear. 
+**Flow Paths per Trench/Pit:** The number of parallel flow paths per trench. When multiple values are possible, a dropdown will appear. 
 
-**Number of Flow Paths:** The total number of parallel flow paths in the GHEX. This must be an even multiple of **Flow Paths per Trench**. 
+**Number of Trenches/Pits:** The total number of trenches or pits to install. Total flow paths is calculated as the product of Flow Paths per Trench/Pit and Number of Trenches/Pits. 
 
 **Horizontal Spacing:** The spacing between individual pipe runs in the trench, calculated based on trench/track width for the selected Pipe Configuration. This field will only appear when applicable.
 

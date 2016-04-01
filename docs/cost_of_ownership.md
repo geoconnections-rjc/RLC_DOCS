@@ -4,13 +4,13 @@
 
 ##Type of Analysis
 
-**Retrofit:** Leave this box unchecked if the analysis being performed is for a project where the cost of the GSHP system will be included in the mortgage. Check this box if the cost of the new system will be separately paid for or financed. 
+**Separate From Mortgage:** Select this box if the cost of the GSHP system will be paid for or financed separately from the mortgage. 
+
+**Account for System Life Cycle:** Leave this box unchecked if life cycle cost is to be ignored in this analysis. Check this box by clicking on it to account for the life cycle cost for each system. By including life cycle cost in the calculations, the life expectancy and associated future equipment replacement costs will be accounted for. When life cycle costs are included, the cost of ownership calculated for each system will more closely resemble the actual cost of ownership given that reasonable assumptions are used for the analysis.
 
 **Conventional Heating & Cooling System:** Select the conventional heating and cooling system for direct comparison against the financing cost and cost of ownership with a GSHP system.
 
-**Year N:** Define the number of years from 5 to 30 for which you would like to analyze the system's Cost of Ownership.
-
-**Account for System Life Cycle:** Leave this box unchecked if life cycle cost is to be ignored in this analysis. Check this box by clicking on it to account for the life cycle cost for each system. By including life cycle cost in the calculations, the life expectancy and associated future equipment replacement costs will be accounted for. When life cycle costs are included, the cost of ownership calculated for each system will more closely resemble the actual cost of ownership given that reasonable assumptions are used for the analysis.
+**Analysis Period:** Define the number of years from 5 to 30 for which you would like to analyze the system's Cost of Ownership.
 
 ##Installation Cost Details
 **Installation Cost:** Specify the estimated total installation cost for the selected conventional system and for the GSHP system, including ductwork, circulating pumps for the GSHP system, etc. 
@@ -98,7 +98,7 @@ For the GSHP system, the replacement cost will typically be 40-60% of the origin
 
 ##N Year Savings
 
-**Total Savings (After N Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over the time period specified in year n.
+**Total Savings (After N Years):** The calculated savings associated with purchasing the GSHP system as opposed to the conventional heating and cooling system over the Analysis Period.
 
 The total savings after N years includes the original cost of the equipment (as part of the original home mortgage payment), estimated inflation rates for the cost of energy (specified on the **FUEL INFLATION and INSTALLATION COSTS** section of this page), and the life cycle cost for both types of equipment (specified on the **EQUIPMENT REPLACEMENT DETAILS** section of this page). Life cycle costs are only considered when the **Account for System Life Cycle** box is checked and appropriate data is supplied.
 
