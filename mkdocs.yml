@@ -16,5 +16,3 @@ pages:
 - Project Summary : 'project_summary.md'
 
 theme: readthedocs
-copyright:<p>Copyright &copy; 2009-<script language="JavaScript" type="text/javascript">var d = new Date(); document.write(d.getFullYear())</script> <a href="http://geoconnectionsinc.com/" target="_blank">Geo-Connections, Inc.</a><br>(866) 995-4449</p>
-<p><a href="https://looplinkrlc.com/eula/" target="_blank">End User License Agreement (EULA)</a> &nbsp;&nbsp;<a href="https://looplinkrlc.com/privacy/" target="_blank">Privacy Policy</a> &nbsp;&nbsp;<a href="https://looplinkrlc.com/refunds/" target="_blank">Refund Policy</a> &nbsp;&nbsp;<a href="https://looplinkrlc.com/contact/" target="_blank">Contact</a></p>

@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 ##Formation Details
 **Average Formation Thermal Conductivity:** The thermal conductivity (Btu/hr-ft-F) of the soil. Formation thermal conductivity is dependent on soil or rock type, moisture content, and density. For large systems (>25 tons), a formation thermal conductivity test (FTC test, in-situ test) is recommended to directly measure soil properties. Thermal conductivity is a measure of how fast heat moves through a material due to a temperature difference. 
 

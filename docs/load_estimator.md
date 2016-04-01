@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 #Load Estimator
 ** Use the Load Estimator to generate peak heating and cooling load approximations for budgetary use. **
 

@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 #Horizontal Trench GHEX Design
 **Use the previously entered climatic data, peak heating and cooling loads, and GSHP performance data to design a horizontally-trenched ground heat exchanger (GHEX).** 
 

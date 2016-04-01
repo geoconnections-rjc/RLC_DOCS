@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 #Hot Water Generation (HWG)
 **If the GSHP system will be used to generate some (supplemental) or all (on demand or full-condensing) of the domestic hot water for the project, specify system type and hot water usage details to calculate the cost savings associated with doing so. Also, view the parameters that affect ground heat exchanger performance which will affect overall ground heat exchanger design lengths.**
 

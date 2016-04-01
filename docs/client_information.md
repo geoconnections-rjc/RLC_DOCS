@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 # Client Information
 ## Client Details
 Enter basic client information for keeping your projects organized.

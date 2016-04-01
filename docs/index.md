@@ -1,3 +1,5 @@
+<a href="http://looplinkrlc.com" title="LoopLink RLC- Residential/Light Commercial Geothermal Design Made Simple">![LoopLink RLC Help](img/RLC_help_header.png)</a>
+
 # Basic Navigation
 LoopLink RLC will adapt its layout to your screen size.  This enables you to more easily access and modify your projects on a wide range of devices and screen sizes. On smaller screens, a tray of buttons will be available at the bottom of the screen allowing you to toggle between the Main Page and Navigation sections of the screen.
 
