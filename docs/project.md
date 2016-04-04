@@ -33,6 +33,8 @@ For more information on guidelines to follow when selecting minimum entering wat
 
 **Deep Earth Temp:** The temperature of the soil, which can be assumed to be constant starting at a depth of 20 feet below the surface down to about 200 feet below the surface. Deep earth temperature varies with location and weather conditions but is typically assumed to be 1-2 degrees above the average air temperature for the given location. 
 
+![U.S. Deep Earth Temperatures](img/DET_map.png)
+
 For more information on deep earth temperature, refer to Section 5.2.2.1 (Chapter 5, pages 24 & 25) in IGSHPA's *Ground Source Heat Pump Residential and Light Commercial Design and Installation Guide.*
 
 **Well Water Temp:** The temperature of well water to be drawn through the GSHP equipment in an open loop configuration. Well water temperature varies with location and weather conditions and can typically be assumed to be the same as deep earth temperature for a given location. 
