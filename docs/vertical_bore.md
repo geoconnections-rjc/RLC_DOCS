@@ -5,7 +5,124 @@
 
 **Calculate Estimate:** Click this button to open an interactive calculator that will enable you to estimate your formation thermal conductivity based on a weighted average of soil/rock properites from a drill log.
 
-**View Reference Table:** Click this button to open a reference table of Average Formation Thermal Conductivity for a given soil/rock type.
+## Thermal Property Ranges of Selected Soils &amp; Rocks
+<table cellspacing="0" cellpadding="0">
+<thead>
+ <tr>
+    <td colspan="4"><h2>SOILS</h2></td>
+  </tr>
+  <tr>
+    <td width="175" class="topLeft" >&nbsp;</td>
+  <td width="120"class="heading" >Dry Density<br />
+        (lb/ft3)</td>
+    <td width="148" class="heading">Thermal Conductivity<br />
+        (Btu/hr ft F)</td>
+    <td width="148" class="heading">Thermal Diffusivity<br />
+        (ft2/day)</td>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+    <td width="175" class="leftIndent" >Heavy    Clay - 15% water</td>
+    <td width="120" class="centeredData" >120</td>
+    <td width="148" class="centeredData" >0.8 - 1.1</td>
+    <td width="148" class="centeredData" >0.45 - 0.65</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Heavy    Clay - 5 % water</td>
+    <td width="120" class="centeredData" >120</td>
+    <td width="148" class="centeredData" >0.6 - 0.8</td>
+    <td width="148" class="centeredData" >0.50 - 0.65</td>
+  </tr>
+  <tr>
+    <td width="175" class="leftIndent" >Light    Clay - 15% water</td>
+    <td width="120" class="centeredData" >80</td>
+    <td width="148" class="centeredData" >0.4 - 0.6</td>
+    <td width="148" class="centeredData" >0.35 - 0.50</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Light    Clay - 5 % water</td>
+    <td width="120" class="centeredData" >80</td>
+    <td width="148" class="centeredData" >0.3 - 0.5</td>
+    <td width="148" class="centeredData" >0.35 - 0.60</td>
+  </tr>
+  <tr>
+    <td width="175" class="leftIndent" >Heavy    Sand - 15% water</td>
+    <td width="120" class="centeredData" >120</td>
+    <td width="148" class="centeredData" >1.6 - 2.2</td>
+    <td width="148" class="centeredData" >0.9 - 1.2</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Heavy Sand - 5 % water</td>
+    <td width="120" class="centeredData" >120</td>
+    <td width="148" class="centeredData" >1.2 - 1.9</td>
+    <td width="148" class="centeredData" >1.0 - 1.5</td>
+  </tr>
+  <tr>
+    <td width="175" class="leftIndent" >Light Sand - 15% water</td>
+    <td width="120" class="centeredData" >80</td>
+    <td width="148" class="centeredData" >0.6 - 1.2</td>
+    <td width="148" class="centeredData" >0.5 - 1.0</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Light    Sand - 5 % water</td>
+    <td width="120" class="centeredData" >80</td>
+    <td width="148" class="centeredData" >0.5 - 1.1</td>
+    <td width="148" class="centeredData" >0.6 - 1.3</td>
+  </tr>
+  </tbody>
+  </table>
+  *Source: Kavanaugh and Rafferty (1997)*
+  
+<table>
+<thead>
+  <tr>
+    <td colspan="4"><h2>ROCKS</h2></td>
+  </tr>
+   <tr>
+    <td width="175" class="topLeft" >&nbsp;</td>
+  <td width="120"class="heading" >Dry Density<br />
+        (lb/ft3)</td>
+    <td width="148" class="heading">Thermal Conductivity<br />
+        (Btu/hr ft F)</td>
+    <td width="148" class="heading">Thermal Diffusivity<br />
+        (ft2/day)</td>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td width="175" class="leftIndent" >Granite</td>
+    <td width="120" class="centeredData" >165</td>
+    <td width="148" class="centeredData" >1.3 - 2.1</td>
+    <td width="148" class="centeredData" >0.9 - 1.4</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Limestone</td>
+    <td width="120" class="centeredData" >150 - 175</td>
+    <td width="148" class="centeredData" >1.4 - 2.2</td>
+    <td width="148" class="centeredData" >0.9 - 1.4</td>
+  </tr>
+  <tr>
+    <td width="175" class="leftIndent" >Sandstone</td>
+    <td width="120" class="centeredData" >160 - 170</td>
+    <td width="148" class="centeredData" >1.2 - 2.0</td>
+    <td width="148" class="centeredData" >0.7 - 1.2</td>
+  </tr>
+  <tr class="alternatingCell">
+    <td width="175" class="leftIndent" >Shale    - Wet</td>
+    <td width="120" class="centeredData" >130 - 165</td>
+    <td width="148" class="centeredData" >0.8 - 1.4</td>
+    <td width="148" class="centeredData" >0.7 - 0.9</td>
+  </tr>
+  <tr>
+    <td width="175" class="leftIndent" >Shale - Dry</td>
+    <td width="120" class="centeredData" >130 - 165</td>
+    <td width="148" class="centeredData" >0.6 - 1.2</td>
+    <td width="148" class="centeredData" >0.6 - 0.8</td>
+  </tr>
+  </tbody>
+</table>
+*Source: Kavanaugh and Rafferty (1997)*
 
 For more information on soil properties, refer to Section 5.2.2.2 and Table 5.6 (Chapter 5, pages 26-29) in IGSHPA's *Ground Source Heat Pump Residential and Light Commercial Design and Installation Guide.* 
 

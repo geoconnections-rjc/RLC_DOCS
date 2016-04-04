@@ -16,6 +16,378 @@
 
 **Soil Calculator:** Click this button to open an interactive calculator that will enable you to estimate your formation thermal properties based on a weighted average of soil properites from a drill log.
 
+Table of Soil Properties</h1>
+
+<table border="1" cellspacing="0" cellpadding="0" style="background-color:#FFF;">
+	<thead>
+ <tr>
+ <td rowspan="2" >Soil<sup>1</sup></td>
+ <td colspan="3" >USDA System<sup>2</sup></td>
+ <td >Field Density<br/>Class<sup>3</sup></td>
+ <td colspan="2" >Soil<br/>Moisture</td>
+ <td colspan="2" >Thermal<br/>Conductivity<sup>4</sup><br/>(Btu/hr ft F)</td>
+ <td colspan="2" >Thermal<br/>Diffusivity<sup>5</sup><br/>(ft2/day)</td>
+ </tr>
+ <tr>
+ <td height="39">Sand<br />
+  (%)</td>
+ <td>Silt<br />
+  (%)</td>
+ <td>Clay<br />
+  (%)</td>
+ <td>(g/cm3-lb/ft3)</td>
+ <td>W.P.</td>
+ <td>F.C.</td>
+ <td>W.P.</td>
+ <td>F.C.</td>
+ <td>W.P.</td>
+ <td>F.C.</td>
+ </tr>
+ </thead>
+	<tbody>
+ <tr>
+ <td rowspan="3" >Benclare<br />
+  (Clay)</td>
+ <td rowspan="3">1.7</td>
+ <td rowspan="3">25.5</td>
+ <td rowspan="3">72.9</td>
+ <td>L (1.10-68.8)</td>
+ <td rowspan="3">30.1</td>
+ <td>39.9</td>
+ <td>0.42</td>
+ <td>0.55</td>
+ <td>0.29</td>
+ <td>0.33</td>
+ </tr>
+ <tr>
+ <td>M (1.20-75.1)</td>
+ <td>37.2</td>
+ <td>0.51</td>
+ <td>0.62</td>
+ <td>0.33</td>
+ <td>0.36</td>
+ </tr>
+ <tr>
+ <td>H (1.30-81.4)</td>
+ <td>35.1</td>
+ <td>0.63</td>
+ <td>0.70</td>
+ <td>0.37</td>
+ <td>0.38</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Sharpsburg <br />
+  (Silty-Clay-Loam)</td>
+ <td rowspan="3">3.5</td>
+ <td rowspan="3">58.2</td>
+ <td rowspan="3">38.3</td>
+ <td>L (1.30-81.4)</td>
+ <td rowspan="3">16.5</td>
+ <td>31.3</td>
+ <td>0.39</td>
+ <td>0.77</td>
+ <td>0.32</td>
+ <td>0.45</td>
+ </tr>
+ <tr>
+ <td >M (1.40-87.6)</td>
+ <td>28.6</td>
+ <td>0.53</td>
+ <td>0.79</td>
+ <td>0.41</td>
+ <td>0.46</td>
+ </tr>
+ <tr>
+ <td>H (1.50-93.6)</td>
+ <td>26.5</td>
+ <td>0.64</td>
+ <td>0.83</td>
+ <td>0.46</td>
+ <td>0.47</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Moody<br />
+  (Silty-Loam)</td>
+ <td rowspan="3">12.5</td>
+ <td rowspan="3">65.6</td>
+ <td rowspan="3">21.9</td>
+ <td>L (1.40-87.6)</td>
+ <td rowspan="3">9.1</td>
+ <td>23.5</td>
+ <td>0.40</td>
+ <td>0.75</td>
+ <td>0.39</td>
+ <td>0.49</td>
+ </tr>
+ <tr>
+ <td>M (1.50-93.9)</td>
+ <td>21.7</td>
+ <td>0.48</td>
+ <td>0.83</td>
+ <td>0.43</td>
+ <td>0.52</td>
+ </tr>
+ <tr>
+ <td>H (1.60-100)</td>
+ <td>20.1</td>
+ <td>0.60</td>
+ <td>0.92</td>
+ <td>0.50</td>
+ <td>0.58</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Cecil<br />
+  (Clay)</td>
+ <td rowspan="3">35.0</td>
+ <td rowspan="3">17.8</td>
+ <td rowspan="3">47.2</td>
+ <td>L (1.40-87.6)</td>
+ <td rowspan="3">17.7</td>
+ <td>26.6</td>
+ <td>0.79</td>
+ <td>1.07</td>
+ <td>0.57</td>
+ <td>0.64</td>
+ </tr>
+ <tr>
+ <td>M (1.50-93.9)</td>
+ <td>24.6</td>
+ <td>0.97</td>
+ <td>1.12</td>
+ <td>0.67</td>
+ <td>0.66</td>
+ </tr>
+ <tr>
+ <td>H (1.60-100)</td>
+ <td>23.0</td>
+ <td>1.09</td>
+ <td>1.18</td>
+ <td>0.71</td>
+ <td>0.68</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Kranzburg<br />
+  (Clay-Loam)</td>
+ <td rowspan="3">35.5</td>
+ <td rowspan="3">36.4</td>
+ <td rowspan="3">28.1</td>
+ <td>L (1.50-93.9)</td>
+ <td rowspan="3">11.5</td>
+ <td>21.7</td>
+ <td>0.60</td>
+ <td>0.90</td>
+ <td>0.50</td>
+ <td>0.57</td>
+ </tr>
+ <tr>
+ <td>M (1.60-100)</td>
+ <td>20.2</td>
+ <td>0.73</td>
+ <td>1.00</td>
+ <td>0.58</td>
+ <td>0.62</td>
+ </tr>
+ <tr>
+ <td>H (1.70-106)</td>
+ <td>18.7</td>
+ <td>0.88</td>
+ <td>1.05</td>
+ <td>0.65</td>
+ <td>0.58</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Brookings<br />
+  (Sandy-Clay-Loam)</td>
+ <td rowspan="3">45.6</td>
+ <td rowspan="3">22.7</td>
+ <td rowspan="3">31.8</td>
+ <td>L (1.50-93.9)</td>
+ <td rowspan="3">13.1</td>
+ <td>21.1</td>
+ <td>0.64</td>
+ <td>1.03</td>
+ <td>0.50</td>
+ <td>0.65</td>
+ </tr>
+ <tr>
+ <td>M (1.60-100)</td>
+ <td>19.6</td>
+ <td>0.80</td>
+ <td>1.05</td>
+ <td>0.60</td>
+ <td>0.66</td>
+ </tr>
+ <tr>
+ <td>H (1.70-106)</td>
+ <td>18.1</td>
+ <td>0.93</td>
+ <td>1.05</td>
+ <td>0.65</td>
+ <td>0.65</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Grovena<br />
+  (Sandy-Loam)</td>
+ <td rowspan="3">53.4</td>
+ <td rowspan="3">35.3</td>
+ <td rowspan="3">11.3</td>
+ <td>L (1.50-93.9)</td>
+ <td rowspan="3">4.9</td>
+ <td>13.6</td>
+ <td>0.40</td>
+ <td>0.81</td>
+ <td>0.42</td>
+ <td>0.64</td>
+ </tr>
+ <tr>
+ <td>M (1.60-100)</td>
+ <td>13.4</td>
+ <td>0.51</td>
+ <td>0.92</td>
+ <td>0.51</td>
+ <td>0.68</td>
+ </tr>
+ <tr>
+ <td>H (1.70-106)</td>
+ <td>12.6</td>
+ <td>0.62</td>
+ <td>1.04</td>
+ <td>0.58</td>
+ <td>0.75</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Vienna <br />
+  (Sandy-Loam)</td>
+ <td rowspan="3">66.5</td>
+ <td rowspan="3">21.0</td>
+ <td rowspan="3">12.5</td>
+ <td>L (1.50-93.9)</td>
+ <td rowspan="3">5.9</td>
+ <td>15.6</td>
+ <td>0.47</td>
+ <td>0.92</td>
+ <td>0.48</td>
+ <td>0.68</td>
+ </tr>
+ <tr>
+ <td>M (1.60-100)</td>
+ <td>15.4</td>
+ <td>0.62</td>
+ <td>0.97</td>
+ <td>0.60</td>
+ <td>0.68</td>
+ </tr>
+ <tr>
+ <td>H (1.70-106)</td>
+ <td>14.6</td>
+ <td>0.74</td>
+ <td>1.05</td>
+ <td>0.67</td>
+ <td>0.72</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Lamoure<br />
+  (Sandy-Loam) or<br />
+  (Loamy-Sand)</td>
+ <td rowspan="3">78.9</td>
+ <td rowspan="3">11.4</td>
+ <td rowspan="3">9.7</td>
+ <td>L (1.60-100)</td>
+ <td rowspan="3">4.2</td>
+ <td>12.1</td>
+ <td>0.47</td>
+ <td>0.87</td>
+ <td>0.48</td>
+ <td>0.68</td>
+ </tr>
+ <tr>
+ <td>M (1.70-106)</td>
+ <td>11.9</td>
+ <td>0.65</td>
+ <td>1.10</td>
+ <td>0.63</td>
+ <td>0.80</td>
+ </tr>
+ <tr>
+ <td>H (1.80-113)</td>
+ <td>11.1</td>
+ <td>0.80</td>
+ <td>1.21</td>
+ <td>0.74</td>
+ <td>0.87</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Maddock<br />
+  (Loamy-Sand)</td>
+ <td rowspan="3">87.6</td>
+ <td rowspan="3">5.6</td>
+ <td rowspan="3">6.8</td>
+ <td>L (1.60-100)</td>
+ <td rowspan="3">3.3</td>
+ <td>11.7</td>
+ <td>0.42</td>
+ <td>0.97</td>
+ <td>0.45</td>
+ <td>0.77</td>
+ </tr>
+ <tr>
+ <td>M (1.70-106)</td>
+ <td>11.5</td>
+ <td>0.49</td>
+ <td>1.07</td>
+ <td>0.50</td>
+ <td>0.80</td>
+ </tr>
+ <tr>
+ <td>H (1.80-113)</td>
+ <td>10.7</td>
+ <td>0.50</td>
+ <td>1.20</td>
+ <td>0.48</td>
+ <td>0.87</td>
+ </tr>
+ <tr>
+ <td rowspan="3" >Fordville<br />
+  (Sand)</td>
+ <td rowspan="3">100.0</td>
+ <td rowspan="3">0.0</td>
+ <td rowspan="3">0.0</td>
+ <td>L (1.60-100)</td>
+ <td rowspan="3">0.70</td>
+ <td>5.0</td>
+ <td>0.20</td>
+ <td>0.71</td>
+ <td>0.25</td>
+ <td>0.71</td>
+ </tr>
+ <tr>
+ <td>M (1.70-106)</td>
+ <td>5.0</td>
+ <td>0.28</td>
+ <td>0.95</td>
+ <td>0.32</td>
+ <td>0.89</td>
+ </tr>
+ <tr>
+ <td>H (1.80-113)</td>
+ <td>5.1</td>
+ <td>0.39</td>
+ <td>1.04</td>
+ <td>0.42</td>
+ <td>0.92</td>
+ </tr>
+ </tbody>
+</table>
+*Source: Remund (1998 a , b)*
+
+<ol>
+ <li class="citation">Soil series name - USDA textural class included in parenthesis.</li>
+ <li class="citation"> According to USDA System sand, silt, and clay particle size limits.</li>
+ <li class="citation"> M - average dry density for field soils below approximately 6 feet with indicated USDA particle size breakdown and should be used unless better information is available. L and H indicate one standard deviation below and above average, respectively.</li>
+ <li class="citation"> Wilting point (W.P.) thermal conductivity is lowest expected value in the field. Field Capacity (F.C.) thermal conductivity is highest expected value in the field, except for saturated condition.</li>
+ <li class="citation"> Wilting point (W.P.) thermal diffusivity is lowest expected value in the field. Field Capacity (F.C.) thermal diffusivity is highest expected value in the field, except for saturated condition.</li>
+</ol>
+
 For more information on soil properties, refer to Section 5.3.2.2 and Table 5.15 (Chapter 5, pages 59-62) in IGSHPA's *Ground Source Heat Pump Residential and Light Commercial Design and Installation Guide.* 
 
 Users in the U.S.A. may reference the [USDA Printed Surveys](http://soils.usda.gov/survey/printed_surveys) for detailed soil information by state and county.
