@@ -403,7 +403,9 @@ Users in the U.S.A. may reference the [USDA Printed Surveys](http://soils.usda.g
 
 **C-C Spacing/Pit Width:** The center to center spacing between trenches for Standard and Slinky configurations or the overall pit width for Racetrack configurations. 
 
-**Pipe Diameter:** The pipe diameter to be used in the active section of the horizontally-trenched GHEX. Choose between 3/4", 1", and 1-1/4" horizontal loop pipe diameters. 
+**Pipe Material:** The material from which the pipe is made.  Different materials exhibit different resistance to heat transfer as a result the selection of material will impact loop lengths.
+
+**Pipe Nominal Diameter:** The nominal diameter of pipe used in the active section of the GHEX. The available diameters will vary depending on the piping material selected.
 
 **Flow Paths per Trench/Pit:** The number of parallel flow paths per trench. When multiple values are possible, a dropdown will appear. 
 

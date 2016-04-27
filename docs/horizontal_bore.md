@@ -89,7 +89,9 @@ Users in the U.S.A. may reference the [USDA Printed Surveys](http://soils.usda.g
 ##Layout Details
 **Bore Diameter:** The diameter of the borehole being drilled for insertion of the GHEX piping. Common borehole diameters range from 4"-6", depending on drilling conditions and the size of the u-bend piping being utilized. 
 
-**Pipe Diameter:** The u-bend pipe diameter to be used in the active section of the vertically-bored GHEX. Choose between 3/4", 1", and 1-1/4" u-bend pipe diameters. 
+**U-Bend Material:** The material from which the u-bend is made.  Different materials exhibit different resistance to heat transfer as a result the selection of material will impact loop lengths.
+
+**U-Bend Nominal Diameter:** The u-bend nominal diameter to be used in the active section of the GHEX. The available diameters will vary depending on the piping material selected.
 
 ***Refer to the figure below to view the correlation between u-bend pipe diameter, vertical bore depth, and gpm per flow path:*** 
 ![3-2-1](img/diameter_bore_length_gpm_relation.gif) 
