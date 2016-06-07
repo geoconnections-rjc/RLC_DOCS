@@ -62,9 +62,19 @@ Specify the equipment selected to serve the zone.
 
 For more information on selection guidelines, refer to Section 3.4 (Chapter 3, starting on page 10) in IGSHPA's *Ground Source Heat Pump Residential and Light Commercial Design and Installation Guide.*
 
+##Circulating Pump Details
+You may choose to use a variable speed circulator or maintain the default of a constant flow. Note that for a variable capacity heat pump, you will necessarily have a variable speed circulating pump.
+
+**Variable Speed Circulator:** Check this box to model your system using a variable speed circulator.  By default, all circulators are model as though they are controlled by the temperature change across the heat pump. Systems using dual-capacity heat pumps will have the option of controlling based on gpm.
+
+**Control Circulator Based On GPM:** Check this box to model your circulating pump such that it discretely changes flow when switching from high capacity to low capacity. This option is only available for dual capacity heat pumps.
+
 ##Back-Up System Details
 
 ###Method
+
+**None:** The option to apply no supplemental heat is available only in situations where the heat pump(s) assigned to the zone are at least 90% sized. The zone will be forced to use a back-up system (supplemental by default) if insufficient capacity is assigned.
+
 **Supplemental:** Choose this method if the auxiliary heat source is able to operate at the same time as the GSHP system. For water-air systems, the only supplemental heating method allowed is electric resistance. For water-water systems, supplemental heating can be provided with any type of boiler. 
 
 **Supplemental w/ Dual Fuel (Water-Air Systems Only):** Choose this method if a combination of supplemental heating with electric resistance and dual fuel heating with a furnace will be used. Remember, when the dual fuel system (furnace) activates, the GSHP must be turned off. 
