@@ -26,6 +26,12 @@ Enter the local utility rates for annual operating cost calculations. If a field
 
 **Fuel Oil Rate:** The cost of heating oil ($/gal) for the given project.
 
+##Tank Costs
+
+**Propane Tank Cost:** The fixed annual rent, lease and/or maintenance costs of a propane storage tank. 
+
+**Fuel Oil Tank Cost:** The fixed annual rent, lease and/or maintenance costs of a fuel oil storage tank. 
+
 ##Energy Inflation Rates 
 
 **Use Defaults:** Click to use default energy inflation rates associated with your account. This will overwrite the values in the fields (if entered). Remember to save the page after applying default values to the project. 
