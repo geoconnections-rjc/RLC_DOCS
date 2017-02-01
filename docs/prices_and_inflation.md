@@ -26,7 +26,9 @@ Enter the local utility rates for annual operating cost calculations. If a field
 
 **Fuel Oil Rate:** The cost of heating oil ($/gal) for the given project.
 
-##Tank Costs
+##Fixed Costs
+
+**Natural Gas Meter Cost:** The fixed annual cost of natural gas meter.
 
 **Propane Tank Cost:** The fixed annual rent, lease and/or maintenance costs of a propane storage tank. 
 
