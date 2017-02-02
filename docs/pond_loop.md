@@ -74,7 +74,7 @@ Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwaterte
 
 **Pipe Nominal Diameter:** The u-bend nominal diameter to be used in the active section of the GHEX. The available diameters will vary depending on the piping material selected.
 
-For more information about proper Pond Loop pipe selection andd layout, refer to Chapter 5 of [Geothermal Heating and Cooling: Design of Ground-Source Heat Pump Systems](http://www.techstreet.com/ashrae/standards/geothermal-heating-and-cooling-design-of-ground-source-heat-pump-systems?gateway_code=ashrae&product_id=1887017) (Kavanaugh and Rafferty, 2014).
+For more information about proper Pond Loop pipe selection and layout, refer to Chapter 5 of [Geothermal Heating and Cooling: Design of Ground-Source Heat Pump Systems](http://www.techstreet.com/ashrae/standards/geothermal-heating-and-cooling-design-of-ground-source-heat-pump-systems?gateway_code=ashrae&product_id=1887017) (Kavanaugh and Rafferty, 2014).
 
 **Number of Loops:** The number of loops to be used in the Pond Loop layout. It is generally recommended to use between 0.75 and 1.25 loops per ton of GSHP capacity (one loop per ton with 3/4" HDPE pipe is most common). 
 
@@ -90,6 +90,8 @@ For more information about proper Pond Loop pipe selection andd layout, refer to
 ###Heating
 **EWTmin:** The minimum entering water temperature the closed-loop ground connection will be designed to provide under peak heating conditions, typically assumed to be 30 degrees F in heating-dominant applications. This parameter is specified on the **PROJECT DETAILS** page. 
 
+**Heating Rate per Acre:** The rate of heat extraction (tons) divided by the area of the reservoir (acres). This value should be less than 10 tons/acre in heating mode.
+
 **Heating Lake Temp:** The reservoir temperature at the installation depth of the loop during peak heating conditions.  
 
 **Pond Loop Resistance:** The heat transfer resistance (hr-ft-F/Btu) in the pond loop in the heating mode. Pond loop resistance is a function of pipe diameter, film resistance, reservoir temperature, and fouling factor. 
@@ -100,6 +102,8 @@ For more information about proper Pond Loop pipe selection andd layout, refer to
 
 ###Cooling
 **EWTmax:** The maximum entering water temperature the closed-loop ground connection will be designed to provide under peak cooling conditions, typically assumed to be 90 degrees F in cooling-dominant applications. This parameter is specified on the **PROJECT DETAILS** page. 
+
+**Cooling Rate per Acre:** The rate of heat rejection (tons) divided by the area of the reservoir (acres). This value should be less than 20 tons/acre in cooling mode.
 
 **Cooling Lake Temp:** The reservoir temperature at the installation depth of the loop during peak cooling conditions.  
 
