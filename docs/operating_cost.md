@@ -3,7 +3,7 @@
 #Economics - Operating Cost Summary
 **Use the peak heating and cooling loads, utility rates, and weather data (based on location) to calculate the estimated cost of operation for the GSHP system and compare it to other conventional heating and cooling systems.**
 
-##Technologies to Compare Test
+##Technologies to Compare
 Select the conventional heating and cooling system(s) for direct comparison against the operating cost with a new GSHP system.
 
 ##System Efficiencies
