@@ -64,7 +64,7 @@ Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwaterte
 
 **Lake Area:** The area of the reservoir to be used. According to ASHRAE, the maximum recommended load for a reservoir is 20 tons/acre in cooling mode and 10 tons/acre in heating mode. 
 
-##Layout Details
+##Layout Details Test
 **Configuration:** The type of Pond Loop configuration to be installed.  The choices are:
 
 1. Coils with Spacers: To limit thermal interference, the minimum c-c spacing between coils is 10 ft. Additionally, spacers should be arranged such that tube spacing is at least one-fourth of the outside coil diameter (Tube Spacing > 0.25 x Nom. Pipe Diameter)
