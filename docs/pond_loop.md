@@ -58,16 +58,16 @@ This Pond Loop design module assumes that the body of water being used is large 
 
 **Pond Area:** The area of the reservoir to be used. According to ASHRAE, the maximum recommended load for a reservoir is 20 tons/acre in cooling mode and 10 tons/acre in heating mode.
 
-A detailed study should be performed to determine the appropriate temperature values to be used for the purposes of Pond Loop design. Geological surveys for most states include lake and stream temperature reports, which serve as the best source for information.  Refer to the [Association of American State Geologists](http://www.stategeologists.org/surveys.php) to find the geological survey for your state.
+**A detailed study should be performed to determine the appropriate temperature values to be used for the purposes of Pond Loop design. Geological surveys for most states include lake and stream temperature reports, which serve as the best source for information.  Refer to the [Association of American State Geologists](http://www.stategeologists.org/surveys.php) to find the geological survey for your state.**
 
 **Pond Temperature Heating:** The reservoir temperature at the installation depth of the loop during peak heating conditions. Generally speaking, the coldest temperature that water at the bottom of a reservoir can reach is 39.2F (4C), which is the temperature where water reaches its maximum density.  Ice as well as water with temperatures below the maximum density point will remain closer to the surface as the density values will be higher than water at 39.2F (4C).
 
 **Pond Temperature Cooling:** The reservoir temperature at the installation depth of the loop during peak cooling conditions. The temperature of rivers, streams, and shallow lakes will approach the average air temperature for the location in the summer.  Deeper lakes typically consist of cold water stratified at the bottom throughout summer when sunlight doesn't reach to lower depths.  In such cases, there will be a sharp change in temperature from warm to cold water, which is referred to as the thermocline.
 
-Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwatertemps.htm) for examples of surface water temperatures versus reservoir , location, depth and time of year.
+Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwatertemps.htm) for examples of surface water temperatures versus location, depth and time of year.
 
 ##Layout Details
-**Pond LoopConfiguration:** The type of Pond Loop configuration to be installed.  The choices are:
+**Pond Loop Configuration:** The type of Pond Loop configuration to be installed.  The choices are:
 
 1. Coils with <a href="http://www.geopondclips.com/pond_loop_assembly" target="_blank">Spacers</a>: To limit thermal interference, the minimum c-c spacing between coils is 10 ft. Additionally, spacers should be arranged such that tube spacing is at least one-fourth of the outside coil diameter (Tube Spacing > 0.25 x Nom. Pipe Diameter)
 2. Extended Slinky: To limit thermal interference, the minimum c-c spacing between slinky loops is 10 ft. Additionally, slinky coils should be constructed with a 10" pitch (minimum).
