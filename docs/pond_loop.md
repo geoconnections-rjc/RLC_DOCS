@@ -67,7 +67,7 @@ Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwaterte
 ##Layout Details
 **Configuration:** The type of Pond Loop configuration to be installed.  The choices are:
 
-1. Coils with Spacers: To limit thermal interference, the minimum c-c spacing between coils is 10 ft. Additionally, spacers should be arranged such that tube spacing is at least one-fourth of the outside coil diameter (Tube Spacing > 0.25 x Nom. Pipe Diameter)
+1. Coils with <a href="http://www.geopondclips.com/pond_loop_assembly" target="_blank">Spacers</a>: To limit thermal interference, the minimum c-c spacing between coils is 10 ft. Additionally, spacers should be arranged such that tube spacing is at least one-fourth of the outside coil diameter (Tube Spacing > 0.25 x Nom. Pipe Diameter)
 2. Extended Slinky: To limit thermal interference, the minimum c-c spacing between slinky loops is 10 ft. Additionally, slinky coils should be constructed with a 10" pitch (minimum).
 
 **Pipe Material:** The material from which the u-bend is made.  Different materials exhibit different resistance to heat transfer as a result the selection of material will impact loop lengths.
