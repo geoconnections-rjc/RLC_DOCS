@@ -11,7 +11,9 @@ This Pond Loop design module assumes that the body of water being used is large 
 
 ##Pond Details
 **Describe the body of water in which you will install your loopfield.**
+  
 **Is a Flowing Body of Water:** Select this box if the pond loop will be placed in a moving body of water (such as a river or stream). The default setting for this field is false, meaning the pond loop will be placed in a static body of water (such as a lake or pond with no inflow/outflow).  This box modifieds the lower limit allowed for the Pond Temperature Heating input field.
+  
 **Pond Condition:** The condition of the water in the reservoir at the loop installation depth. The selection is used to determine the increased heat transfer resistance due to fouling on the outside surface of the pipe.  
 
 ##Fouling Factors for Pond Loop Coils
