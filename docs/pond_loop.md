@@ -10,9 +10,12 @@ This Pond Loop design module assumes that the body of water being used is large 
 **Name:** The name given to the Pond Loop design, saved in the GHEX section within the sidebar navigation panel. Use the name to differentiate between multiple designs for comparison.
 
 ##Pond Details
-**Describe the body of water in which you will install your loopfield.**<br>
-**Is a Flowing Body of Water:** Select this box if the pond loop will be placed in a moving body of water (such as a river or stream). The default setting for this field is false, meaning the pond loop will be placed in a static body of water (such as a lake or pond with no inflow/outflow).  This box modifieds the lower limit allowed for the Pond Temperature Heating input field.<br>
-**Pond Condition:** The condition of the water in the reservoir at the loop installation depth. The selection is used to determine the increased heat transfer resistance due to fouling on the outside surface of the pipe.<br>
+
+**Describe the body of water in which you will install your loopfield.**
+
+**Is a Flowing Body of Water:** Select this box if the pond loop will be placed in a moving body of water (such as a river or stream). The default setting for this field is false, meaning the pond loop will be placed in a static body of water (such as a lake or pond with no inflow/outflow).  This box modifies the lower limit allowed for the Pond Temperature Heating input field.
+
+**Pond Condition:** The condition of the water in the reservoir at the loop installation depth. The selection is used to determine the increased heat transfer resistance due to fouling on the outside surface of the pipe.
 
 ##Fouling Factors for Pond Loop Coils
 <table cellspacing="0" cellpadding="0">
@@ -101,7 +104,7 @@ For more information about proper Pond Loop pipe selection and layout, refer to 
 
 **Heating Rate per Acre:** The rate of heat extraction (tons) divided by the area of the reservoir (acres). This value should be less than 10 tons/acre in heating mode.
 
-**System Rn Fraction:** A measure of equipment run-time during the design month in heating (January), expressed as a decimal. A 0.600 run fraction means that the equipment will run approximately 60% of the time during the design month. Run fraction is a function of equipment capacity as it relates to building load and weather data for the geographical location. 
+**System Run Fraction:** A measure of equipment run-time during the design month in heating (January), expressed as a decimal. A 0.600 run fraction means that the equipment will run approximately 60% of the time during the design month. Run fraction is a function of equipment capacity as it relates to building load and weather data for the geographical location. 
 
 **Total Loop Length:** The total pipe length required to maintain the minimum entering water temperature given the parameters used to design the Pond Loop in the heating mode. 
 
