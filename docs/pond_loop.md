@@ -69,7 +69,7 @@ This Pond Loop design module assumes that the body of water being used is large 
 
 **Pond Temperature Cooling:** The reservoir temperature at the installation depth of the loop during peak cooling conditions.
 <ul><li>The temperature of rivers, streams, and shallow lakes will approach the average air temperature for the location in the summer.</li>
-</li>Deeper lakes typically consist of cold water stratified at the bottom throughout summer when sunlight doesn't reach to lower depths.  In such cases, there will be a sharp change in temperature from warm to cold water, which is referred to as the thermocline.</li></ul>
+<li>Deeper lakes typically consist of cold water stratified at the bottom throughout summer when sunlight doesn't reach to lower depths.  In such cases, there will be a sharp change in temperature from warm to cold water, which is referred to as the thermocline.</li></ul>
 
 Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwatertemps.htm) for examples of surface water temperatures versus location, depth and time of year.
 
