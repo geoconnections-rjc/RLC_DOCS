@@ -10,6 +10,8 @@ This Pond Loop design module assumes that the body of water being used is large 
 **Name:** The name given to the Pond Loop design, saved in the GHEX section within the sidebar navigation panel. Use the name to differentiate between multiple designs for comparison.
 
 ##Pond Details
+**Describe the body of water in which you will install your loopfield.**
+**Is a Flowing Body of Water:** Select this box if the pond loop will be placed in a moving body of water (such as a river or stream). The default setting for this field is false, meaning the pond loop will be placed in a static body of water (such as a lake or pond with no inflow/outflow).  This box modifieds the lower limit allowed for the Pond Temperature Heating input field.
 **Pond Condition:** The condition of the water in the reservoir at the loop installation depth. The selection is used to determine the increased heat transfer resistance due to fouling on the outside surface of the pipe.  
 
 ##Fouling Factors for Pond Loop Coils
@@ -60,9 +62,14 @@ This Pond Loop design module assumes that the body of water being used is large 
 
 **A detailed study should be performed to determine the appropriate temperature values to be used for the purposes of Pond Loop design. Geological surveys for most states include lake and stream temperature reports, which serve as the best source for information.  Refer to the [Association of American State Geologists](http://www.stategeologists.org/surveys.php) to find the geological survey for your state.**
 
-**Pond Temperature Heating:** The reservoir temperature at the installation depth of the loop during peak heating conditions. Generally speaking, the coldest temperature that water at the bottom of a reservoir can reach is 39.2F (4C), which is the temperature where water reaches its maximum density.  Ice as well as water with temperatures below the maximum density point will remain closer to the surface as the density values will be higher than water at 39.2F (4C).
+**Pond Temperature Heating:** The reservoir temperature at the installation depth of the loop during peak heating conditions.
+<ul><li>If the pond loop is placed in a static, frozen body of water (such as a lake or pond with no inflow/outflow), the water temperature at the bottom of the reservoir will be 39.2F (4C), which is the value where water reaches its maximum density. Ice as well as water at any temperature other than 39.2F (4C) will float on top of the water at 39.2F (4C).</li>
+<li>In a shallow frozen reservior, the layer thickness of water at 39.2F (4C) can be very small. Extreme caution should be used when designing a pond loop heat exchanger in such cases.</li>
+<li>If the pond loop is placed in a moving body of water (such as a river or stream), the water at the bottom can fall below 39.2F (4C) due to mixing effects. In extremely cold locations, water temperatures may fall to just above the freezing point of water, which is 32F (0C).</li></ul>
 
-**Pond Temperature Cooling:** The reservoir temperature at the installation depth of the loop during peak cooling conditions. The temperature of rivers, streams, and shallow lakes will approach the average air temperature for the location in the summer.  Deeper lakes typically consist of cold water stratified at the bottom throughout summer when sunlight doesn't reach to lower depths.  In such cases, there will be a sharp change in temperature from warm to cold water, which is referred to as the thermocline.
+**Pond Temperature Cooling:** The reservoir temperature at the installation depth of the loop during peak cooling conditions.
+<ul><li>The temperature of rivers, streams, and shallow lakes will approach the average air temperature for the location in the summer.</li>
+</li>Deeper lakes typically consist of cold water stratified at the bottom throughout summer when sunlight doesn't reach to lower depths.  In such cases, there will be a sharp change in temperature from warm to cold water, which is referred to as the thermocline.</li></ul>
 
 Refer to [GeoKiss: Surface Water Temperatures](http://www.geokiss.com/surwatertemps.htm) for examples of surface water temperatures versus location, depth and time of year.
 
