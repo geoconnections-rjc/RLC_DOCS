@@ -10,8 +10,7 @@ This Pond Loop design module assumes that the body of water being used is large 
 **Name:** The name given to the Pond Loop design, saved in the GHEX section within the sidebar navigation panel. Use the name to differentiate between multiple designs for comparison.
 
 ##Pond Details
-
-Describe the body of water in which you will install your loopfield.
+Describe the body of water in which you will install your loopfield. 
 
 **Is a Flowing Body of Water:** Select this box if the pond loop will be placed in a moving body of water (such as a river or stream). The default setting for this field is false, meaning the pond loop will be placed in a static body of water (such as a lake or pond with no inflow/outflow).  This box modifies the lower limit allowed for the Pond Temperature Heating input field.
 
