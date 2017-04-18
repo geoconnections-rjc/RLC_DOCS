@@ -15,6 +15,7 @@
 **Soil Diffusivity:** The thermal diffusivity (ft2/day) of the soil. Soil diffusivity is dependent on soil type, moisture content, and density. Thermal diffusivity is a measure of how fast heat moves relative to the heat storage capacity of the material. 
 
 **Soil Calculator:** Click this button to open an interactive calculator that will enable you to estimate your formation thermal properties based on a weighted average of soil properites from a drill log.
+**Refer to <a href="http://blog.geoconnectionsinc.com/2017/04/soil-identification-for-horizontal-geo.html" target="_blank">this article</a> for more information on using the Soil Calculator to assign properties.**
 
 Table of Soil Properties</h1>
 
