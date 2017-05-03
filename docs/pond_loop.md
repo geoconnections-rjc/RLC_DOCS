@@ -17,6 +17,7 @@ Describe the body of water in which you will install your loopfield.
 **Pond Condition:** The condition of the water in the reservoir at the loop installation depth. The selection is used to determine the increased heat transfer resistance due to fouling on the outside surface of the pipe.
 
 ##Fouling Factors for Pond Loop Coils
+
 <table cellspacing="0" cellpadding="0">
 <thead>
   <tr>
@@ -56,6 +57,7 @@ Describe the body of water in which you will install your loopfield.
   </tr>
   </tbody>
 </table>
+
 *Source: Kavanaugh and Rafferty (2014)*
 
 **Pond Depth:** The average depth of the water where the loops will be installed. A minimum reservoir depth of 10 ft. is recommended in order to be considered for use with a GSHP system. This depth should be measured at the lowest seasonal level.
