@@ -26,7 +26,7 @@ Use the Soil Properties Estimator to lookup and then assign estimated soil therm
 **Suggested Soil Types:** Use USDA's Web Soil Survey to perform a lookup of the soil type in the area. Then choose the soil type from the provided interactive table that most closely resembles the actual soil type found in the USDA lookup.
 Refer to <a href="http://blog.geoconnectionsinc.com/2017/04/soil-identification-for-horizontal-geo.html" target="_blank">this article</a> for more information on using USDA's Web Soil Survey to find and assign properties.
 
-Table of Soil Properties</h1>
+<h1>Table of Soil Properties</h1>
 
 <table border="1" cellspacing="0" cellpadding="0" style="background-color:#FFF;">
 	<thead>
