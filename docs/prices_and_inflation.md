@@ -28,11 +28,13 @@ Enter the local utility rates for annual operating cost calculations. If a field
 
 ##Fixed Costs
 
-**Natural Gas Meter Cost:** The fixed annual cost of natural gas meter.
+**GSHP Annual Lease Cost ($/Year):** The fixed annual lease costs for the GSHP system. A lease can be used to cover all, or simply a portion of the installation cost for a GSHP system.
 
-**Propane Tank Cost:** The fixed annual rent, lease and/or maintenance costs of a propane storage tank. 
+**Natural Gas Meter Cost ($/Year):** The fixed annual cost of a natural gas meter.
 
-**Fuel Oil Tank Cost:** The fixed annual rent, lease and/or maintenance costs of a fuel oil storage tank. 
+**Propane Tank Cost ($/Year):** The fixed annual rent, lease and/or maintenance costs of a propane storage tank. 
+
+**Fuel Oil Tank Cost ($/Year):** The fixed annual rent, lease and/or maintenance costs of a fuel oil storage tank. 
 
 ##Energy Inflation Rates 
 
